@@ -1,5 +1,6 @@
 def welcome_assignment_answers(question):
     print('Take a guess.')
+    global answer
 #    guess = int ( input ( ) )
    
     if question == "Are encoding and encryption the same? - Yes/No":
